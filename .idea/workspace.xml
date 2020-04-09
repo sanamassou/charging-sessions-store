@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91af63c4-618c-4cc1-a289-b04e0207e8d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/charging-sessions-store.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/ChargingScheduleApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/business/ChargingSessionBusiness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/business/IChargingSessionBusiness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/dto/input/ChargingSessionDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/dto/output/ChargingSessionResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/exceptions/ExceptionsEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/exceptions/TechnicalException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/helpers/DateFormatterHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/models/ChargingSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/evbox/chargingschedule/resources/ChargingSessionResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/evbox/chargingschedule/ChargingScheduleApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/evbox/chargingschedule/business/ChargingSessionBusinessTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/evbox/chargingschedule/resources/ChargingSessionResourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/ChargingSessionsStoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/ChargingSessionsStoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/business/ChargingSessionBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/business/ChargingSessionBusiness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/business/IChargingSessionBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/business/IChargingSessionBusiness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/dto/input/ChargingSessionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/dto/input/ChargingSessionDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/dto/output/ChargingSessionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/dto/output/ChargingSessionResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/exceptions/ExceptionsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/exceptions/ExceptionsEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/exceptions/TechnicalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/exceptions/TechnicalException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/helpers/DateFormatterHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/helpers/DateFormatterHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/models/ChargingSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/models/ChargingSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/evbox/chargingschedule/resources/ChargingSessionResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/chargingschedule/resources/ChargingSessionResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/evbox/chargingschedule/ChargingScheduleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/chargingschedule/ChargingScheduleApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/evbox/chargingschedule/business/ChargingSessionBusinessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/chargingschedule/business/ChargingSessionBusinessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/evbox/chargingschedule/resources/ChargingSessionResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/chargingschedule/resources/ChargingSessionResourceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,11 +145,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Gradle.ChargingSessionBusinessTest.countChargingSessionInLastMinuteByStation_when_time_isExpired_and_station_match" />
       <item itemvalue="JUnit.ChargingSessionBusinessTest.countChargingSessionInLastMinuteByStation_when_time_isExpired_and_station_match" />
       <item itemvalue="JUnit.ChargingSessionBusinessTest.countChargingSessionInLastMinuteByStation_when_time_not_expired_and_station_match" />
       <item itemvalue="JUnit.ChargingSessionBusinessTest.countChargingSessionInLastMinuteByStation_when_time_not_expired_and_station_not_match" />
       <item itemvalue="JUnit.ChargingSessionBusinessTest" />
-      <item itemvalue="Gradle.ChargingSessionBusinessTest.countChargingSessionInLastMinuteByStation_when_time_isExpired_and_station_match" />
     </list>
     <recent_temporary>
       <list>
@@ -230,14 +187,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="141" key="FileChooserDialogImpl" timestamp="1584313396418">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state x="499" y="141" key="FileChooserDialogImpl/57.24.1309.744@57.24.1309.744" timestamp="1584313396418" />
+    <state width="1069" height="171" key="GridCell.Tab.0.bottom" timestamp="1582499775870">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1069" height="171" key="GridCell.Tab.0.bottom/57.24.1309.744@57.24.1309.744" timestamp="1582499775870" />
+    <state width="1069" height="171" key="GridCell.Tab.0.center" timestamp="1582499775870">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1069" height="171" key="GridCell.Tab.0.center/57.24.1309.744@57.24.1309.744" timestamp="1582499775870" />
+    <state width="1069" height="171" key="GridCell.Tab.0.left" timestamp="1582499775870">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1069" height="171" key="GridCell.Tab.0.left/57.24.1309.744@57.24.1309.744" timestamp="1582499775870" />
+    <state width="1069" height="171" key="GridCell.Tab.0.right" timestamp="1582499775870">
+      <screen x="57" y="24" width="1309" height="744" />
+    </state>
+    <state width="1069" height="171" key="GridCell.Tab.0.right/57.24.1309.744@57.24.1309.744" timestamp="1582499775870" />
     <state x="246" y="32" width="1120" height="728" key="SettingsEditor" timestamp="1582498908278">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
     <state x="246" y="32" width="1120" height="728" key="SettingsEditor/57.24.1309.744@57.24.1309.744" timestamp="1582498908278" />
-    <state x="663" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582499069909">
+    <state x="663" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584313344926">
       <screen x="57" y="24" width="1309" height="744" />
     </state>
-    <state x="663" y="224" key="com.intellij.ide.util.TipDialog/57.24.1309.744@57.24.1309.744" timestamp="1582499069909" />
+    <state x="663" y="224" key="com.intellij.ide.util.TipDialog/57.24.1309.744@57.24.1309.744" timestamp="1584313344926" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
